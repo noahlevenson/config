@@ -2,7 +2,7 @@ set number
 set ruler
 set hlsearch
 set ai
-colorscheme blue
+colorscheme seoul256
 syntax on
 set tabstop=2
 set shiftwidth=2
